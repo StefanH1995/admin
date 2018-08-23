@@ -1,0 +1,73 @@
+#leftsidebar{
+	display: none;
+}
+
+.print{
+	display: none !important;
+}
+
+.title{
+	display: none;
+}
+
+hr{
+	border: 1px solid #eee;
+	margin-left: 20px;
+}
+
+.header{
+	border-bottom: 0 !important;
+}
+
+section.content{
+	margin: 0px 0px 0 0px !important;
+    width: 904px;
+}
+
+title{
+	display: none !important;
+}
+link{
+	display: none !important;
+}
+
+@page {
+    size: auto;   /* auto is the initial value */
+    margin: 0;  /* this affects the margin in the printer settings */
+}
+
+.cred{
+	display: inline-block !important;
+	margin-left: 30px;
+	margin-top: 20px;
+	width: 100%;
+}
+.text{
+	display: inline-block !important;
+}
+
+.imagine{
+display: inline-block !important;
+float: right;
+width: 25%;
+margin-right: 30px;
+}
+
+.act{
+	text-align: center;
+}
+
+.pagina_print{
+	display: block !important;
+}
+
+tfoot{
+	display: none;
+}
+.clearfix{
+	display: none !important;
+}
+
+h4,h5{
+	font-weight: 100;
+}
